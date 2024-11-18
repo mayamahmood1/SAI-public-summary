@@ -2,6 +2,7 @@
 meow
 
 <img src="SAIgif.gif" width="700" style="border: 1px solid darkgrey">
+
 *Figure 1. meow* 
 
 ## Technological Feasibility
@@ -11,6 +12,7 @@ meow
 meow
 
 <img src="EnvImpacts.png" width="700" style="border: 1px solid darkgrey">
+
 *Figure2. meow*
 
 
@@ -21,11 +23,13 @@ meow
 meow
 
 *Table 1. meow*
+
 <img src="Table1.png" width="700" style="border: 1px solid darkgrey">
 
 meow
 
 *Table 2. meow*
+
 <img src="Table2.png" width="700" style="border: 1px solid darkgrey">
 
 meow
