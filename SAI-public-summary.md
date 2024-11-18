@@ -1,4 +1,6 @@
 # Feasibility and Implications of Stratospheric Aerosol Injection
+*Zoe Iczkovitz, Alesia Leung, Maya Mahmood, Alyssia Naran, and Priya Rai*
+
 meow
 
 <img src="SAIgif.gif" width="700" style="border: 1px solid darkgrey">
