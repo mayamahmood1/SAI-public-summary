@@ -5,8 +5,9 @@ Global warming, driven by greenhouse gas emissions, is causing severe climate im
 
 Stratospheric aerosol injection (SAI) is an SRM strategy that introduces aerosols, typically sulfur dioxide (SO2), into the stratosphere to increase Earth's albedo (Figure 1) (Vattioni et al. 2024). SAI aims to mimic the cooling effect of volcanic eruptions, which release sulfur plumes that reflect incoming solar radiation (Ming et al. 2014). While environmental models suggest SAI could limit global warming, environmental, social, technological, geopolitical, and financial factors must be considered.
 
-
+<p align="center">
 <img src="SAIgif.gif" width="700" style="border: 1px solid darkgrey">
+</p>
 
 *Figure 1. SAI works by injecting aerosols, including sulfur dioxide (SO2), into the stratosphere (15 to 50 km above Earth’s surface), through injection mechanisms such as drones, tethered balloons, and aircrafts. This is meant to mimic the cooling effects of large volcanic eruptions. Incoming solar radiation is then able to be reflected off of aerosol particles which creates a cooling effect (Ming et al. 2014) (Authors’ Own Work).* 
 
@@ -18,7 +19,9 @@ The technological feasibility of SAI relies on efficient delivery methods, optim
 ## Environmental Impacts
 SAI affects the environment by altering temperature, precipitation, air quality, and the carbon cycle (Figure 2). While it can reduce global temperatures and mitigate droughts, it may lead to regional disparities such as drying in Mainland Southeast Asia or flooding in Northern Europe (Narenpitak et al. 2024; Liu, Lang, and Jiang 2024). These changes pose risks to ecosystems, agriculture, and water resources (Clark et al. 2023). Abrupt termination of SAI, known as "Termination Shock," could severely worsen global warming and accelerate CO2 release (Tang and Kemp 2021). 
 
+<p align="center">
 <img src="EnvImpacts.png" width="700" style="border: 1px solid darkgrey">
+</p>
 
 *Figure 2. Potential environmental impacts of SAI across major categories. Temperature: SAI can reduce global warming by reflecting sunlight and aiding in the restoration of sea ice (Lee et al. 2023; Zhang et al. 2024). Precipitation: SAI alters rainfall patterns, increasing dry months and reducing monsoon precipitation in Mainland Southeast Asia, while intensifying flood risks in Northern Europe. It also globally modifies drought frequency, duration, and severity (Narenpitak et al. 2024; Liu, Lang, and Jiang 2024). Air Quality: SAI depletes atmospheric ozone and contributes to air pollution (Tracy et al. 2022). Carbon Cycle: SAI enhances ocean carbon uptake, but it has mixed effects on land carbon uptake (Cao 2018). However, these impacts carry some uncertainties, as they come from different climate models with varying parameters. Further, the extent and distribution of environmental effects depend on the scale, strategy, and location of SAI injections (Authors’ Own Work).*
 
@@ -31,18 +34,20 @@ The global impacts of SAI require a decision-making process that is inclusive of
 As mentioned, SAI can be deployed by various delivery systems, with annual operational costs summarized in Table 1. 
 
 
-
 *Table 1. meow*
 
+<p align="center">
 <img src="Table1.png" width="700" style="border: 1px solid darkgrey">
+</p>
 
 In comparison to other popular SRMs, SAI is generally considered one of the more economically feasible and extensively researched options, as shown in Table 2 (Amis et al. 2019). 
 
 *Table 2. meow*
 
+<p align="center">
 <img src="Table2.png" width="700" style="border: 1px solid darkgrey">
+</p>
 
-meow
 
 ## Social Impacts
 
