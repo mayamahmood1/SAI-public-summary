@@ -34,19 +34,24 @@ The global impacts of SAI require a decision-making process that is inclusive of
 As mentioned, SAI can be deployed by various delivery systems, with annual operational costs summarized in Table 1. 
 
 
-*Table 1. meow*
+*Table 1. Estimated annual cost of various stratospheric aerosol injection (SAI) delivery systems in USD.*
 
 <p align="center">
 <img src="Table1.png" width="700" style="border: 1px solid darkgrey">
 </p>
+Data from Smith (2020); McClellan, Keith, and Apt (2012).
 
+</p>
 In comparison to other popular SRMs, SAI is generally considered one of the more economically feasible and extensively researched options, as shown in Table 2 (Amis et al. 2019). 
+</p>
 
-*Table 2. meow*
+*Table 2. Estimated annual cost of various solar radiation management (SRM) techniques in USD.*
 
 <p align="center">
 <img src="Table2.png" width="700" style="border: 1px solid darkgrey">
-</p>
+</p> 
+Data from Smith (2020); McClellan, Keith, and Apt (2012); Shepherd et al. (2009); Smith et al. (2022); Claudel et al. (2024); Salter, Sortino, and Latham (2008); Angel (2006); Fuglesang and de Herreros Miciano (2021).
+
 
 
 ## Social Impacts
